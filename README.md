@@ -1,6 +1,6 @@
 # What Am I Eating - React Native mobile app
 
-This another version of the What Am I Eating mobile app developed in React Native.
+Another version of the What Am I Eating mobile app developed in React Native.
 
 
 # Used libraries
